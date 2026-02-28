@@ -1,0 +1,3 @@
+[submodule "EXTERNALS"]
+	path = EXTERNALS
+	url = git@github.com:lauriszz123/durak-os-externals.git
